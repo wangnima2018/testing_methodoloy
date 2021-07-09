@@ -3,3 +3,5 @@
 2 https://testing.googleblog.com/2020/
 
 3 https://testing.googleblog.com/2016/05/flaky-tests-at-google-and-how-we.html
+
+4 https://testing.googleblog.com/2009/06/my-selenium-tests-arent-stable.html
