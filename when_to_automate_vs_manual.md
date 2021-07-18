@@ -53,7 +53,8 @@ Disadvantage of manual testing:
 4 If it's a exploratory testing, need to carefully document the steps. Otherwise, hard to repro the bug.
 
 
-![image](https://user-images.githubusercontent.com/29685036/126052098-40f5c4cf-ed2a-4ec5-acc5-44d6c1e9e170.png)
+![1626567821219](https://user-images.githubusercontent.com/29685036/126052107-23cadeed-5cca-4d24-ab82-d99068deb599.jpg)
+
 
 
 ```
