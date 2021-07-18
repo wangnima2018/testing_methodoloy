@@ -58,3 +58,5 @@ Disadvantage of manual testing:
 
 
 ```
+![image](https://user-images.githubusercontent.com/29685036/126052113-88d59254-3efe-4103-b892-9e03e97b9ca7.png)
+
