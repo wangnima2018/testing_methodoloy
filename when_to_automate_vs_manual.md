@@ -52,8 +52,8 @@ Disadvantage of manual testing:
 3 If not properly reported the feedback is invaluable
 4 If it's a exploratory testing, need to carefully document the steps. Otherwise, hard to repro the bug.
 
-![Uploading image.png…]()
 
+![image](https://user-images.githubusercontent.com/29685036/126052098-40f5c4cf-ed2a-4ec5-acc5-44d6c1e9e170.png)
 
 
 ```
