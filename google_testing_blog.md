@@ -22,5 +22,7 @@ https://docs.google.com/presentation/d/15gNk21rjer3xo-b1ZqyQVGebOp_aPvHU3YH7YnOM
 
 https://testing.googleblog.com/2013/08/how-google-team-tests-mobile-apps.html
 
+https://testing.googleblog.com/2012/10/hermetic-servers.html
+
 
 ```
