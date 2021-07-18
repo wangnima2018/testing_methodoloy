@@ -20,5 +20,7 @@ https://coverage.readthedocs.io/en/coverage-5.5/
 https://docs.google.com/presentation/d/15gNk21rjer3xo-b1ZqyQVGebOp_aPvHU3YH7YnOMxtE/edit#slide=id.g3f5c82004_8611
 
 
+https://testing.googleblog.com/2013/08/how-google-team-tests-mobile-apps.html
+
 
 ```
