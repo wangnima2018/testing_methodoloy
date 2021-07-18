@@ -35,5 +35,22 @@ Manual testing requires more time & effort initially, but it can definitely help
 
 This provides the opportunity to uncover bugs or display issues that automated tests simply can’t filter and catch.
 
+First need basic manual testing to understand what's automatable and what's not.
+Great For After Small Updates
+1 Allows For Accurate Setup Of Automated Testing
+Manual testing allows and ensures the proper setup of automation testing.
+You can’t automate until you know what kinds of things you will be regularly looking for within your applications or software.
+2 No Advanced Programming Needed
+3 Ensures that the Visual Presentation Is As Expected.
+4 This especially relates to tests that focus on user interfaces and usability. 
+(Great For After Small Updates)
+
+
+Disadvantage of manual testing: 
+1 Human Error Is Present 
+2 More Time & More People Are Needed
+3 If not properly reported the feedback is invaluable
+4 If it's a exploratory testing, need to carefully document the steps. Otherwise, hard to repro the bug.
+
 
 ```
