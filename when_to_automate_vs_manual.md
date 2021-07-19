@@ -54,6 +54,8 @@ Disadvantage of manual testing:
 
 
 
+Note:
+When doing manual testing, (especially like explotary testing) it might be a little bit hard to record all the steps. 
 
 ```
 ![image](https://user-images.githubusercontent.com/29685036/126052113-88d59254-3efe-4103-b892-9e03e97b9ca7.png)
