@@ -7,4 +7,7 @@ unsuccessful test strategy/test plan:
 1 test plan can't provide detailed steps, (some key steps are missing in testplan)
 2 test strategy don't leave buffer time for ad-hoc issues
 3 wrong prioritization: ex: QA need to test basic functionality before they can test advanced functionality.
+
+https://www.softwaretestinghelp.com/what-is-user-acceptance-testing-uat/
+
 ```
