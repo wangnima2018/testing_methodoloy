@@ -24,5 +24,8 @@ https://testing.googleblog.com/2013/08/how-google-team-tests-mobile-apps.html
 
 https://testing.googleblog.com/2012/10/hermetic-servers.html
 
+Testing Pyramid:
+https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html
+
 
 ```
