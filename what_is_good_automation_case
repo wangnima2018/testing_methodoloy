@@ -2,11 +2,10 @@
 what's a good automated testcase?
 
 A1: easy to check the log and debug when there’s a failure
-A2: easy for others to maintain and understand
+A2: easy for others to maintain and understand, with clear logs
 A3: deterministic (not flaky), hermetic server. 
 A4: time to develop the new testcase based on existing one? 
 A5: one to one mapping between testplan to testcase (ex: pass/fail criteria)
 A6: make sure the testcase can be clean up properly
-
 
 ```
